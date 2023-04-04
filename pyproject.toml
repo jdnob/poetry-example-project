@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "poetry-example-project"
-version = "0.1.0"
+version = "0.1.1"
 description = "Mon exemple de projet utilisant Poetry"
 authors = ["Jules <32939951+jdnob@users.noreply.github.com>"]
 readme = "README.md"
