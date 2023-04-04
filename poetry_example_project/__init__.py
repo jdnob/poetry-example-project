@@ -1,0 +1,3 @@
+"""
+Répertoire Python exemple Poetry
+"""
